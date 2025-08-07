@@ -18,16 +18,15 @@ This project was created as part of my frontend development practice to improve 
 
 ## 🌐 Live Preview
 
-> (Optional) You can host this project using GitHub Pages, Netlify, or Firebase.  
-> _Add your live link here once deployed._
+👉 [Click Here to View Live](https://alfishanshaikh.github.io/blog-web/) 
 
 ---
 
 ## 📸 Screenshots
 
-> _You can add screenshots here to showcase your UI_  
-> Example:  
-> ![Screenshot](images/screenshot.png)
+> ![Screenshot](https://github.com/AlfishanShaikh/blog-web/blob/9b021aeb9f697ee6f3b3323e77be61d4dbff225c/banner-image.png)
+
+
 
 ---
 
