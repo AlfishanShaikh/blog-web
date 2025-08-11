@@ -35,7 +35,6 @@ This project was created as part of my frontend development practice to improve 
 - HTML5  
 - CSS3  
 
-No libraries, no frameworks — just clean and readable code.
 
 ---
 
